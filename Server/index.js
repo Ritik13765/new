@@ -23,5 +23,5 @@ app.use('/api', loginRouter)
 // })
 
 app.listen(5000, ()=>{
-    console.log('server running on port no. 4000')
+    console.log('server ron port no. 4000')
 })
